@@ -1,2 +1,11 @@
-
-/* Your CSS Code here. */
+.container{
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.items{
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+}
